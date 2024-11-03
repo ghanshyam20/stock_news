@@ -16,7 +16,6 @@ STOCK_ENDPOINT="https://www.alphavantage.co/query"
 
 
 
-STOCK_API_KEY="Z2D6G3ZWTQVPTBLM"
 #step 1 :use https://www.alphavantage.co/support/#api-key
 
 #to get yesterdays closing price
@@ -79,7 +78,6 @@ print(diff_percent)
 #I used  https://newsapi.org/v2/everything FOR NEWSAPI END POINT
 
 NEWS_ENDPOINT="https://newsapi.org/v2/everything"
-NEWS_API_KEY="d9de9c48540d48e1af4697303c44ab98 "
 
 
 
